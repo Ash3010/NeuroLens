@@ -17,9 +17,9 @@ NeuroLens helps interpret deep learning models by visualizing internal activatio
 - React (frontend)
 
 ## 📦 Installation
-git clone <https://github.com/Ash3010/NeuroLens.git>
-cd NeuroLens
-pip install -r requirements.txt
+- git clone <https://github.com/Ash3010/NeuroLens.git>
+- cd NeuroLens
+- pip install -r requirements.txt
 
 ## Run the App
 streamlit run app.py
